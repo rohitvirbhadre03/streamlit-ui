@@ -1,0 +1,3 @@
+streamlit==1.38.0    # For the main Streamlit app
+pandas==2.0.3        # For data manipulation and DataFrame operations
+matplotlib==3.8.0    # For plotting graphs (optional)
